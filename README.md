@@ -1,6 +1,6 @@
 ﻿ Игра "Лабиринт", Местай Мурзабаев, 318 группа
  
-![](Aspose.Words.ebb8c6f6-ed29-4f90-9b5f-ec4260877ada.001.png)
+![](readme_files/Aspose.Words.ebb8c6f6-ed29-4f90-9b5f-ec4260877ada.001.png)
 
 Для сборки и запуска введите shell команды:
 
